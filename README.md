@@ -18,7 +18,7 @@ public function captcha()
 
 ## Contoh Form
 ```html
-<form>
+<form method="post">
 <img src="http://domain.tld/site/captcha"/>
 <input type="text" name="captcha"/>
 <iput type="submit"/>
